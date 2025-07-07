@@ -38,3 +38,13 @@
   RemoveToolTip() {
       ToolTip()
   }
+
+
+-  **Run the Script:**
+Double-click AutoPress.ahk. A green "H" icon will appear in your system tray.
+Press F9 to start or stop the automatic key press.
+
+-  **Exit the Script:**
+Right-click the green "H" icon in the tray and choose "Exit" to stop the script completely.
+
+##Done✅
